@@ -1,6 +1,3 @@
-# Unsupervised Machine Learning
-
-This repo contains all the notebooks I worked through for an unsupervised machine learning course, covering everything from data prep and clustering through to dimensionality reduction and recommender systems. Each topic has a lecture notebook, a set of practice assignments, and (for a few of them) a hands-on project with a real business scenario.
 
 The datasets are in the `data` folder (uploaded as a zip). 
 
