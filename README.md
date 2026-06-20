@@ -24,21 +24,21 @@ Content-based filtering using cosine similarity, and collaborative filtering usi
 
 ## Projects
 
-### Clustering Clients — Northwind Traders
+### Clustering Clients - Northwind Traders
 *Notebook: `02_clustering_project.ipynb`*
 
 Northwind Traders is a wholesale distributor supplying gourmet food products to restaurants, cafes, and specialty retailers. Using their yearly client report (channel, region, and spend by product category), the goal is to segment clients into meaningful groups using three different clustering techniques, evaluate them, and predict which segment a new client would fall into.
 
 ![Brief](briefs/Brief_1.png)
 
-### Recommending Restaurants — MavenEats
+### Recommending Restaurants - MavenEats
 *Notebook: `05_recommender_project.ipynb`*
 
 MavenEats is a restaurant review website. The task is to build two recommenders: one that suggests five restaurants for a user's homepage based on their past ratings, and one that surfaces five similar restaurants on each restaurant's detail page.
 
 ![Brief](briefs/Brief_2.png)
 
-### Final Project — HR Analytics
+### Final Project - HR Analytics
 *Notebook: `06_final_project.ipynb`*
 
 An end-to-end unsupervised learning project for an HR Analytics team at a mid-sized software company. The company wants to reduce attrition, so the job is to segment employees using clustering, visualize those clusters with dimensionality reduction, explore what makes each group distinct, and make concrete recommendations for improving retention in each one.
